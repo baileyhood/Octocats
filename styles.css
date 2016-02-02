@@ -1,0 +1,59 @@
+
+.octodex {
+  margin: auto;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.octocat {
+  display: inline-block;
+  width: 31%;
+  height: 30%;
+
+  margin: 11px;
+}
+
+.octocat img {
+  width: 100%;
+  border: 1px solid lightgrey;
+}
+
+.image-footer {
+  width: 100%;
+  border-bottom: 1px solid lightgrey;
+  padding: 10px 0;
+}
+
+.image-caption img {
+  width: 100%;
+  display: inline-block;
+
+}
+
+.image-number {
+  display: inline-block;
+}
+
+.image-caption {
+  display: inline-block;
+  text-align: right;
+  width: 92%;
+
+}
+
+.image-caption span {
+  display: inline-block;
+  text-align: right;
+}
+
+.authors {
+  padding: 0;
+  display: inline-block;
+}
+
+.image-caption img {
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
