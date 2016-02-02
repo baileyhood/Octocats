@@ -52,12 +52,17 @@ li {
   display: inline-block;
   color:#B5B5B5;
   font-weight: bold;
+
 }
+
+  .image-number::before {
+    content: "#";
+  }
 
 .image-caption {
   display: inline-block;
   text-align: right;
-  width: 92%;
+  width: 91%;
 
 }
 
